@@ -1,0 +1,30 @@
+h1 { 
+    color:violet;
+}
+ 
+p {
+    color:black; /*propiedad y valor */
+    font-size: 20pt;
+
+}
+
+#Primera {
+    color:aquamarine;
+    font-size: 15pt;
+}
+#Segunda {
+    color:brown;
+    font-size: 15pt;
+}
+.encabezado {
+    font-size: 34pt;
+    text-transform: uppercase;
+}
+*.warning { /* selecciona todas las etiquetas ademas poder poner una condicion*/
+    color: red;
+}
+
+.autor, .fecha, .ubicacion, h1, #segunda {
+    text-decoration: underline;
+}
+
