@@ -1,0 +1,40 @@
+.wrap{
+    width: 600px;
+    height: 600px;
+    background: violet;
+    position: relative;
+}
+
+.child{
+    position: absolute;
+    width:160px;
+    height:160px;
+    background: blueviolet;
+}
+.child1{    
+    margin: 20px 20px;
+}
+.child2{
+    margin: 20px 210px;
+}
+.child3{
+    margin: 20px 400px;
+}
+.child4{
+    margin: 220px 20px;
+}
+.child5{
+    margin: 220px 210px;
+}
+.child6{
+    margin: 220px 400px;
+}
+.child7{
+    margin: 400px 20px;
+}
+.child8{
+    margin: 400px 210px;
+}
+.child9{
+    margin: 400px 400px;
+}

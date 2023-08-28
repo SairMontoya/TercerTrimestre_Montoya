@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Courier Prime";
+    color: white;
+}
+ima
+
+body {
+    background-color:blueviolet;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.333) 0px 1px 50px;
+}
+
+.container p {
+    color:blueviolet;
+    font-size: 40pt;
+    margin-left: 8px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
