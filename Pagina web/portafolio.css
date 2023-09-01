@@ -1,0 +1,47 @@
+
+*{
+    padding: 10;
+    margin: 10;
+}
+
+div {
+    margin: 0;
+    padding: 5;
+    position: relative;
+    left: 80px;
+    color: black;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+nav ul {
+    background-color: aqua;
+    width: 100%;
+    list-style-type:none ;
+    text-align: center;
+    border: 2;
+}
+
+nav li {
+    display: inline-flex;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    width: 150px;
+}
+
+
+/*fondo */
+.fondo {
+    /*background-color: blueviolet;*/
+    background-image: url("https://wallpapers.com/images/hd/abstract-background-6m6cjbifu3zpfv84.jpg");
+}
